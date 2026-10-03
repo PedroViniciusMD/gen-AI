@@ -1,2 +1,4 @@
-requests
+pydantic
+pydantic-ai
 python-dotenv
+ipykernel
